@@ -9,7 +9,7 @@ The idea of this page or repository, is to have a place where I can upload the p
 
 ### Java Script 
 
-in this folder I have had to do very basic projects to understand the basics of programming language.
+In this folder I have had to do very basic projects to understand the basics of programming language.
 
 ### PowerBi
 
@@ -17,7 +17,7 @@ In this case we have the handling of certain databases of certain companies in r
 
 ### python
 
-in this folder I have had to do very basic projects to understand the basics of programming language.
+In this folder I have had to do very basic projects to understand the basics of programming language.
 
 ### Website 
 In this case, it’s a combination of HTML and CSS used to create a basic main page for a website. These exercises have been helpful in understanding how these tools work.
